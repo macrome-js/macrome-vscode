@@ -1,8 +1,10 @@
 .vscode/**
 .vscode-test/**
-node_modules/**
 .gitignore
-**/tsconfig.json
-**/.eslintrc.json
-**/*.map
-**/*.ts
+tsconfig.json
+.eslintrc.json
+.editorconfig
+package-lock.json
+
+lib/**/*.map
+lib/**/*.ts
