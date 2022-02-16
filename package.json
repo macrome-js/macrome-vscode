@@ -2,7 +2,7 @@
   "name": "macrome-vscode",
   "displayName": "macrome",
   "description": "VSCode support for working with the macrome build system",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "publisher": "conartist6",
   "engines": {
